@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-19 17:58+0200\n"
+"POT-Creation-Date: 2010-04-28 00:19+0200\n"
 "PO-Revision-Date: 2010-04-19 17:58+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 
 #. [campaign]: id=Children_of_Dragons
 #. [editor_group]: id=CoD
-#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:108
+#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:113
 msgid "Children of Dragons"
 msgstr ""
 
@@ -70,12 +70,12 @@ msgid "Artwork and Graphics"
 msgstr ""
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:51
+#: Children_of_Dragons/_main.cfg:55
 msgid "Maps"
 msgstr ""
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:60
+#: Children_of_Dragons/_main.cfg:64
 msgid "Translations"
 msgstr ""
 
@@ -172,34 +172,34 @@ msgstr ""
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:67
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:75
 #: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:50
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:59
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:62
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:66
 #: Children_of_Dragons/scenarios/05_Dark_Forest.cfg:74
 msgid "Kahn"
 msgstr ""
 
 #. [side]: type=Drake Noble, id=Verk
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:65
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:73
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:68
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:76
 msgid "Verk"
 msgstr ""
 
 #. [side]: type=Drake Noble, id=Garaag
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:79
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:87
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:82
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:90
 msgid "Garaag"
 msgstr ""
 
 #. [unit]: type=Drake Warden, id=Harkon
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:42
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:95
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:150
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:171
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:98
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:153
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:174
 msgid "Harkon"
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:102
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:105
 msgid ""
 "In the time-honoured tradition of our race, the battle for leadership shall "
 "be fought here. The rules are very simple - be the last contender left "
@@ -208,68 +208,68 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:106
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:109
 msgid "There is complete silence."
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:111
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:114
 msgid "Very well. Let the battle commence!"
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:123
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:126
 msgid ""
 "So it has finally come to this. The leadership of the Drakes will be mine."
 msgstr ""
 
 #. [message]: id=Garaag
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:127
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:130
 msgid "Hah! In your dreams, softbelly. The leadership is mine."
 msgstr ""
 
 #. [message]: id=Verk
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:131
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:134
 msgid "Enough bickering! Let us begin."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:135
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:138
 msgid ""
 "For the course of this campaign \"Inferno Drakes\" can upgrade to "
 "\"Armageddon Drakes\"."
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:157
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:160
 msgid ""
 "What? There is still no winner after the allotted time? It seems none of you "
 "are worthy to lead us after all."
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:178
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:181
 msgid "All hail our new leader, Kahn!"
 msgstr ""
 
 #. [message]: id=Garaag
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:193
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:196
 msgid "Bah! The Drakes are doomed."
 msgstr ""
 
 #. [message]: id=Verk
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:207
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:210
 msgid "Ah. It seems I was overly ambitious."
 msgstr ""
 
 #. [message]: id=Garaag
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:217
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:220
 msgid ""
 "Too right you were. Only I have the steel required to lead the mighty Drakes."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:221
+#: Children_of_Dragons/scenarios/01_Leader_of_the_Drakes.cfg:224
 msgid "We'll see about that."
 msgstr ""
 
@@ -299,25 +299,25 @@ msgid "Derk"
 msgstr ""
 
 #. [unit]: type=Hurricane Drake, id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:106
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:107
 msgid "Freon"
 msgstr ""
 
 #. [unit]: type=Drake Enforcer, id=Stakron
 #. [side]: type=Drake Enforcer, id=Stakron
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:135
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:136
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:97
 #: Children_of_Dragons/scenarios/08_To_the_Ships.cfg:105
 msgid "Stakron"
 msgstr ""
 
 #. [unit]: type=Drake Flameheart, id=Flerk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:157
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:158
 msgid "Flerk"
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:171
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:172
 msgid ""
 "I call this meeting of the Drake Council to order. Welcome, Kahn. As our "
 "leader you are now also the head of this council, though there is little you "
@@ -325,32 +325,32 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:175
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:176
 msgid "Thank you. It is indeed an honour to serve the Drakes in this capacity."
 msgstr ""
 
 #. [message]: id=Derk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:179
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:180
 msgid "We believe you have some rather, uh, drastic plans, Kahn."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:183
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:184
 msgid "You could say that."
 msgstr ""
 
 #. [message]: id=Flerk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:187
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:188
 msgid "Then I think you should share them."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:191
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:192
 msgid "I couldn't agree more."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:195
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:196
 msgid ""
 "Esteemed members of the council, our peoples are descended from the mighty "
 "dragons, who once ruled earth and sky. For centuries we have hidden "
@@ -361,24 +361,24 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:199
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:200
 msgid "Friends, we do not belong here. We -"
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:203
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:204
 msgid ""
 "We have, as you say, lived here for centuries. How can you claim we do not "
 "belong?"
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:207
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:208
 msgid "Hear him out, Gakk."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:211
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:212
 msgid ""
 "As I said, we struggle underground. Despite this, we have grown in numbers "
 "and strength. But if we are to continue to prosper, I believe the time has "
@@ -387,24 +387,24 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:215
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:216
 msgid ""
 "Surely you cannot be serious. We know these caves - we know what to expect, "
 "we know how to survive. We know nothing about the world above ground."
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:219
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:220
 msgid "If I may, that is not strictly true."
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:223
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:224
 msgid "Explain."
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:227
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:228
 msgid ""
 "For the past two generations, several members my clan have been making short "
 "trips above ground. We are built to fly, but we have little opportunity to "
@@ -413,7 +413,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Derk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:231
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:232
 msgid ""
 "I cannot help but to concur. In recent years the trolls - and even the "
 "dwarves - have been attacking more and more frequently. Something must be "
@@ -421,7 +421,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:235
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:236
 msgid ""
 "I cannot believe I am listening to this! You are saying you agree with this "
 "preposterous idea? It is lunacy! Even if we do know a little about the world "
@@ -433,7 +433,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Stakron
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:239
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:240
 msgid ""
 "I must agree, Gakk. While I sympathise with the issues that my colleagues "
 "have raised, I simply do not think it is practical to attempt such a huge "
@@ -441,7 +441,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:243
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:244
 msgid ""
 "But what is the alternative? As Derk has said, we are facing more and more "
 "opposition here. We must seek new lands. And above ground is the best place "
@@ -449,12 +449,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:247
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:248
 msgid "At least we know the opposition here."
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:251
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:252
 msgid ""
 "Well, it seems we must put it to a vote. Kahn, as you know, a decision of "
 "this magnitude cannot be taken lightly. And so, it must be passed by a "
@@ -464,33 +464,33 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Derk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:255
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:256
 msgid "I vote we follow Kahn above ground."
 msgstr ""
 
 #. [message]: id=Stakron
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:259
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:260
 msgid "I say we stay."
 msgstr ""
 
 #. [message]: id=Flerk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:263
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:264
 msgid "I agree with Freon - we must do something. I vote we go."
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:267
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:268
 msgid "I long to soar in the sky with my brethren. We go."
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:271
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:272
 msgid ""
 "I maintain that this idea is ridiculous. I cannot support it. We must stay."
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:275
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:276
 msgid ""
 "Despite a wariness of the unknown, I too believe that we cannot continue to "
 "hold off the trolls and dwarves indefinitely. Though I have some "
@@ -499,21 +499,21 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:279
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:280
 msgid ""
 "It is decided then. Gakk, Stakron - I appreciate your concerns, but I "
 "believe this is best for our people."
 msgstr ""
 
 #. [message]: id=Gakk
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:283
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:284
 msgid ""
 "I am afraid I cannot support this move. I will come with you if we leave, "
 "but do not expect my help!"
 msgstr ""
 
 #. [message]: id=Harkon
-#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:295
+#: Children_of_Dragons/scenarios/02_Drake_Council.cfg:296
 msgid ""
 "This does not bode well. Nonetheless, the decision is made. We begin "
 "preparations immediately."
