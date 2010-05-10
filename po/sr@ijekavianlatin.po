@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-28 00:19+0200\n"
+"POT-Creation-Date: 2010-05-11 00:29+0200\n"
 "PO-Revision-Date: 2010-04-28 00:19+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -116,7 +116,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:38
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:602
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:36
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:55
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:56
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:36
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:126
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:163
@@ -134,7 +134,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:44
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:63
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:64
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:44
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:134
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:171
@@ -155,8 +155,8 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:64
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:54
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:62
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:74
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:82
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:75
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:83
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:21
 #: Children_of_Dragons/scenarios/02_Drake_Council.cfg:28
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:54
@@ -559,7 +559,7 @@ msgstr ""
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:42
 #: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:606
 #: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:40
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:59
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:60
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:40
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:130
 #: Children_of_Dragons/scenarios/11_Clearing_the_Island.cfg:167
@@ -675,35 +675,35 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:47
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:48
 msgid "Defeat enemy leaders; and"
 msgstr ""
 
 #. [objective]: condition=win
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:51
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:52
 msgid "Get Kahn to the end of the mountains"
 msgstr ""
 
 #. [side]: type=Dwarvish Steelclad, id=Augthais
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:101
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:105
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:102
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:106
 msgid "Augthais"
 msgstr ""
 
 #. [side]: type=Troll, id=Zuug
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:115
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:119
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:116
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:120
 msgid "Zuug"
 msgstr ""
 
 #. [side]: type=Bandit, id=Larron
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:129
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:133
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:130
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:134
 msgid "Larron"
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:148
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:149
 msgid ""
 "Beautiful, isn't it? Unfortunately we can't keep looking for too long. There "
 "are creatures that inhabit these mountains that will not tolerate our "
@@ -711,49 +711,49 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:152
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:153
 msgid "Then we must get out of these mountains quickly."
 msgstr ""
 
 #. [message]: id=Augthais
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:158
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:159
 msgid "There they are, boys! Let's get them!"
 msgstr ""
 
 #. [message]: id=Zuug
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:164
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:165
 msgid "Dwarves and lizards in mountains. Trolls kill all!"
 msgstr ""
 
 #. [message]: id=Augthais
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:170
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:171
 msgid ""
 "Larron, my friend! These creatures are trying to steal our caves. If you "
 "value our trade, please help us destroy them."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:174
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:175
 msgid "We're not interested in your caves!"
 msgstr ""
 
 #. [message]: id=Larron
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:178
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:179
 msgid "A likely story. Men, kill those things!"
 msgstr ""
 
 #. [message]: id=Zuug
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:184
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:185
 msgid "Trolls kill humans too. We no care. All go squish under club and fist."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:255
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:256
 msgid "We made it!"
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:266
+#: Children_of_Dragons/scenarios/04_Leaving_the_Mountains.cfg:267
 msgid ""
 "We can't leave the mountains yet. We must defeat our enemies or they will "
 "continue to follow us."
@@ -1559,19 +1559,19 @@ msgid "There are just too many of them! We are doomed to die in this swamp!"
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:136
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:139
 msgid "The undead are retreating!"
 msgstr ""
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:140
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:143
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:144
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:147
 msgid "Then what are we waiting for? Let's keep moving!"
 msgstr ""
 
