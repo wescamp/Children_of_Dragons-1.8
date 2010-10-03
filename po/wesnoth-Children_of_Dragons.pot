@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-11 00:29+0200\n"
+"POT-Creation-Date: 2010-10-03 12:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 
 #. [campaign]: id=Children_of_Dragons
 #. [editor_group]: id=CoD
-#: ./Children_of_Dragons/_main.cfg:7 ./Children_of_Dragons/_main.cfg:113
+#: ./Children_of_Dragons/_main.cfg:7 ./Children_of_Dragons/_main.cfg:115
 msgid "Children of Dragons"
 msgstr ""
 
@@ -67,12 +67,17 @@ msgid "Artwork and Graphics"
 msgstr ""
 
 #. [about]
-#: ./Children_of_Dragons/_main.cfg:55
+#: ./Children_of_Dragons/_main.cfg:51
+msgid "Thanks also to:"
+msgstr ""
+
+#. [about]
+#: ./Children_of_Dragons/_main.cfg:57
 msgid "Maps"
 msgstr ""
 
 #. [about]
-#: ./Children_of_Dragons/_main.cfg:64
+#: ./Children_of_Dragons/_main.cfg:66
 msgid "Translations"
 msgstr ""
 
@@ -202,7 +207,7 @@ msgid "Having asserted his right to lead the Drakes, the time had now come for K
 msgstr ""
 
 #. [unit]: type=Inferno Drake, id=Gakk
-#. [side]: type=Inferno Drake, id=Gakk
+#. [side]: type=Inferno Drake CoD, id=Gakk
 #: ./Children_of_Dragons/scenarios/02_Drake_Council.cfg:63 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:82 ./Children_of_Dragons/scenarios/08_To_the_Ships.cfg:90
 msgid "Gakk"
 msgstr ""
