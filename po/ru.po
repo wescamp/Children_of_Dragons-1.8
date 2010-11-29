@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Children_of_Dragons-0.9.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:54+0200\n"
+"POT-Creation-Date: 2010-11-29 14:51+0100\n"
 "PO-Revision-Date: 2010-11-06 15:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Language: ru\n"
@@ -17,13 +17,13 @@ msgstr ""
 
 #. [campaign]: id=Children_of_Dragons
 #. [editor_group]: id=CoD
-#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:115
+#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:114
 msgid "Children of Dragons"
 msgstr "Потомки Драконов"
 
 # второй абзац - мой комментарий, не перевод
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:17
+#: Children_of_Dragons/_main.cfg:16
 msgid ""
 "Once the most feared creatures in the land of the living, the dragons are "
 "all but extinct. But their descendants are just about to make their mark on "
@@ -33,62 +33,62 @@ msgstr ""
 "исчезли. Однако их потомки скоро оставят свой след в мире..."
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:20
+#: Children_of_Dragons/_main.cfg:19
 msgid "Noble"
 msgstr "Дворянин"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:20
+#: Children_of_Dragons/_main.cfg:19
 msgid "(easy)"
 msgstr "(лёгкий)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:21
+#: Children_of_Dragons/_main.cfg:20
 msgid "(medium)"
 msgstr "(средне)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:21
+#: Children_of_Dragons/_main.cfg:20
 msgid "Lord"
 msgstr "Лорд"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:22
+#: Children_of_Dragons/_main.cfg:21
 msgid "(hard)"
 msgstr "(сложно)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:22
+#: Children_of_Dragons/_main.cfg:21
 msgid "Chancellor"
 msgstr "Канцлер"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:25
+#: Children_of_Dragons/_main.cfg:24
 msgid "Campaign Developed and Maintained By"
 msgstr "Разработка и поддержка кампании"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:31
+#: Children_of_Dragons/_main.cfg:30
 msgid "Converted for the Wesnoth 1.8 series by"
 msgstr "Адаптация для серии Wesnoth 1.8"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:37
+#: Children_of_Dragons/_main.cfg:36
 msgid "Artwork and Graphics"
 msgstr "Оформление и графика"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:51
+#: Children_of_Dragons/_main.cfg:50
 msgid "Thanks also to:"
 msgstr "Также благодарю:"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:57
+#: Children_of_Dragons/_main.cfg:56
 msgid "Maps"
 msgstr "Карты"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:66
+#: Children_of_Dragons/_main.cfg:65
 msgid "Translations"
 msgstr "Перевод"
 
@@ -1744,20 +1744,25 @@ msgstr ""
 msgid "Defeat the undead"
 msgstr "Победить мертвецов"
 
-#. [side]: type=Draug, type=Revenant
+#. [side]: type=Draug, type=Revenant, id=undead guardian
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:73
+msgid "Undead Guardian"
+msgstr ""
+
+#. [side]: type=Draug, type=Revenant, id=undead guardian
 #. [side]: type=Skeleton
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:81
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:83
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:53
 msgid "Undead"
 msgstr "Мертвецы"
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:91
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:93
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
 msgstr "Тьфу! Это место отвратительно! Возможно Гак был прав."
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:95
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:97
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
@@ -1766,18 +1771,18 @@ msgstr ""
 "мертвецов, и земля возродиться."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:99
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:101
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
 msgstr ""
 "Я, конечно, надеюсь на это. Смотрите, здесь есть мертвецы. Давайте начнём."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:109
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:111
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr "Что это за чертовщина? Погибшие дрейки вновь восстают из мёртвых."
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:113
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:115
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
@@ -1785,22 +1790,22 @@ msgstr ""
 "Этот остров пропитан тёмной магией. Мы должны найти и уничтожить её источник."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:117
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:119
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
 msgstr "Одна дело за раз, хорошо? Давайте вначале уберём с дороги эту группу."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:129
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:131
 msgid "There are just too many of them! We are doomed to die in this swamp!"
 msgstr "Их больше, чем нас. Мы обреченны умереть в этих болотах."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:139
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "The undead are retreating!"
 msgstr "Мертвецы отступают!"
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:143
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:145
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
@@ -1809,7 +1814,7 @@ msgstr ""
 "остров, если собираемся здесь жить."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:147
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:149
 msgid "Then what are we waiting for? Let's keep moving!"
 msgstr "Тогда чего мы ждём? Давайте двигаться дальше!"
 

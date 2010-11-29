@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:54+0200\n"
+"POT-Creation-Date: 2010-11-29 14:51+0100\n"
 "PO-Revision-Date: 2010-04-19 17:58+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,12 +14,12 @@ msgstr ""
 
 #. [campaign]: id=Children_of_Dragons
 #. [editor_group]: id=CoD
-#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:115
+#: Children_of_Dragons/_main.cfg:7 Children_of_Dragons/_main.cfg:114
 msgid "Children of Dragons"
 msgstr "Children of Dragons"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:17
+#: Children_of_Dragons/_main.cfg:16
 msgid ""
 "Once the most feared creatures in the land of the living, the dragons are "
 "all but extinct. But their descendants are just about to make their mark on "
@@ -30,62 +30,62 @@ msgstr ""
 "the world..."
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:20
+#: Children_of_Dragons/_main.cfg:19
 msgid "Noble"
 msgstr "Noble"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:20
+#: Children_of_Dragons/_main.cfg:19
 msgid "(easy)"
 msgstr "(easy)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:21
+#: Children_of_Dragons/_main.cfg:20
 msgid "(medium)"
 msgstr "(medium)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:21
+#: Children_of_Dragons/_main.cfg:20
 msgid "Lord"
 msgstr "Lord"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:22
+#: Children_of_Dragons/_main.cfg:21
 msgid "(hard)"
 msgstr "(hard)"
 
 #. [campaign]: id=Children_of_Dragons
-#: Children_of_Dragons/_main.cfg:22
+#: Children_of_Dragons/_main.cfg:21
 msgid "Chancellor"
 msgstr "Chancellor"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:25
+#: Children_of_Dragons/_main.cfg:24
 msgid "Campaign Developed and Maintained By"
 msgstr "Campaign Developed and Maintained By"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:31
+#: Children_of_Dragons/_main.cfg:30
 msgid "Converted for the Wesnoth 1.8 series by"
 msgstr "Converted for the Wesnoth 1.8 series by"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:37
+#: Children_of_Dragons/_main.cfg:36
 msgid "Artwork and Graphics"
 msgstr "Artwork and Graphics"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:51
+#: Children_of_Dragons/_main.cfg:50
 msgid "Thanks also to:"
 msgstr ""
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:57
+#: Children_of_Dragons/_main.cfg:56
 msgid "Maps"
 msgstr "Maps"
 
 #. [about]
-#: Children_of_Dragons/_main.cfg:66
+#: Children_of_Dragons/_main.cfg:65
 msgid "Translations"
 msgstr "Translations"
 
@@ -1724,20 +1724,25 @@ msgstr ""
 msgid "Defeat the undead"
 msgstr "Defeat the undead"
 
-#. [side]: type=Draug, type=Revenant
+#. [side]: type=Draug, type=Revenant, id=undead guardian
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:73
+msgid "Undead Guardian"
+msgstr ""
+
+#. [side]: type=Draug, type=Revenant, id=undead guardian
 #. [side]: type=Skeleton
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:81
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:83
 #: Children_of_Dragons/scenarios/13_Epilogue.cfg:53
 msgid "Undead"
 msgstr "Undead"
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:91
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:93
 msgid "Ugh! This place is disgusting! Maybe Gakk was right."
 msgstr "Ugh! This place is disgusting! Maybe Gakk was right."
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:95
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:97
 msgid ""
 "This place reeks of the undead. No doubt once we clear the island of the "
 "undead, the land itself will regenerate."
@@ -1746,18 +1751,18 @@ msgstr ""
 "undead, the land itself will regenerate."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:99
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:101
 msgid "I certainly hope so. Look - there are undead here. Let's get started!"
 msgstr "I certainly hope so. Look - there are undead here. Let's get started!"
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:109
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:111
 msgid "What devilry is this? Those Drakes who fall are rising again in unlife!"
 msgstr ""
 "What devilry is this? Those Drakes who fall are rising again in unlife!"
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:113
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:115
 msgid ""
 "This island is steeped with dark magic. We must find and destroy the source "
 "of it."
@@ -1766,22 +1771,22 @@ msgstr ""
 "of it."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:117
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:119
 msgid "One thing at a time, OK? Let's get this lot out of the way first."
 msgstr "One thing at a time, OK? Let's get this lot out of the way first."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:129
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:131
 msgid "There are just too many of them! We are doomed to die in this swamp!"
 msgstr "There are just too many of them! We are doomed to die in this swamp!"
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:139
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:141
 msgid "The undead are retreating!"
 msgstr "The undead are retreating!"
 
 #. [message]: id=Freon
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:143
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:145
 msgid ""
 "There are doubtless many more where they came from. We must clear the entire "
 "island if we are to make it our home."
@@ -1790,7 +1795,7 @@ msgstr ""
 "island if we are to make it our home."
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:147
+#: Children_of_Dragons/scenarios/10_Landing_on_Morogor.cfg:149
 msgid "Then what are we waiting for? Let's keep moving!"
 msgstr "Then what are we waiting for? Let's keep moving!"
 
